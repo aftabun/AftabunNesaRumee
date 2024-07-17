@@ -22,7 +22,7 @@
 
 <p align = "center">
   <a href="https://www.linkedin.com/in/aftabun-nesa-rumee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aftabunnesarumee" height="30" width="40" /></a>
-  <a href="[https://github.com/aftabun" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="aftabun" height="30" width="40" /></a>
+  <a href="https://github.com/aftabun" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="aftabun" height="30" width="40" /></a>
 </p>
 
 ## 🏆 GitHub Trophies
