@@ -11,7 +11,7 @@
 
 - 👩‍💻 I’m currently learning **Python, Typescript, Nextjs**
 
-- 🌐 All of my projects are available at [Aftabun's Portfolio](https://aftabun-portfolio.netlify.app/)
+- 🌐 My Portfolio : [Aftabun's Portfolio](https://aftabun-portfolio.netlify.app/)
 
 - 📫 How to reach me **aftabunnesa18@gmail.com**
 
